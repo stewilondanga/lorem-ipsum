@@ -136,12 +136,11 @@ summary:hover {
   color: #007bff;
 }
 
-/*
 summary:focus {
   outline: none;
 }
 
-details[open] summary:before {
+/*details[open] summary:before {
   transform: rotate(90deg);
 }
 
