@@ -158,7 +158,6 @@ p.source {
   text-align: center;
 }
 
-/*
 @keyframes open {
   0% {
     opacity: 0;
@@ -169,6 +168,7 @@ p.source {
   }
 }
 
+/*
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
