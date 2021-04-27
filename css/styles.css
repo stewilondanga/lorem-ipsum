@@ -132,11 +132,11 @@ summary {
   border-bottom: 1px solid #ccc;
 }
 
-/*
 summary:hover {
   color: #007bff;
 }
 
+/*
 summary:focus {
   outline: none;
 }
