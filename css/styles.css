@@ -144,11 +144,11 @@ details[open] summary:before {
   transform: rotate(90deg);
 }
 
-/*
-details[open] > summary {
+details[open]>summary {
   color: #007bff;
 }
 
+/*
 details[open] > summary ~ * {
   animation: open 1s ease;
 }
