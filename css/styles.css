@@ -148,11 +148,11 @@ details[open]>summary {
   color: #007bff;
 }
 
-/*
-details[open] > summary ~ * {
+details[open]>summary~* {
   animation: open 1s ease;
 }
 
+/*
 p.source {
   padding-top: 50px;
   font-size: 0.75em;
