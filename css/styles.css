@@ -1,4 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+
+body {
+  font-family: "Source Sans Pro";
+  color: #333333;
+  padding-top: 50px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -109,11 +116,6 @@
 }
 
 
-body {
-  font-family: "Source Sans Pro";
-  color: #333333;
-  padding-top: 50px;
-}
 
 details {
   position: relative;
