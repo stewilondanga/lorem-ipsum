@@ -107,12 +107,11 @@ body {
   transition-delay: 0.4s;
 }
 
-/*
-
 details {
   position: relative;
 }
 
+/*
 details summary::-webkit-details-marker {
   display: none;
 }
